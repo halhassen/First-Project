@@ -1,0 +1,176 @@
+@media (min-width: 1200px) (max-width:940px) {
+
+}
+
+#box1 {
+	background: lightblue;
+	height: 350px;
+	width: 250px;
+}
+
+#box1Desc {
+	color: white;
+	font-size: 20px;
+}
+
+#box2 {
+	background: lightgreen;
+	height: 350px;
+	width: 250px;
+	margin-left: 25px;
+}
+
+#box3 {
+	background: crimson;
+	height: 350px;
+	width: 250px;
+	margin-left: 50px;
+}
+
+#box4 {
+	background: purple;
+	height: 350px;
+	width: 250px;
+	margin-left: 75px;	
+}
+
+#hamad {
+	height: 150px;
+	width: 175px;
+}
+
+#caption {
+	margin-bottom: 565px;
+	margin-left: 600px;
+	color: white;
+	border: solid 1px white;
+	height: 5%;
+	padding-top: 10px;
+	position: absolute;
+}
+
+#signup {
+	margin-bottom: 565px;
+	margin-left: 800px;
+	color: white;
+	border: solid 1px white;
+	height: 5%;
+	padding-top: 10px;
+	position: absolute;
+}
+
+#login {
+	margin-bottom: 565px;
+	margin-left: 900px;
+	color: white;
+	height: 5%;
+	padding-top: 10px;
+	position: absolute;
+}
+
+#caption:hover {
+	background: gray;
+}
+
+#tibet {
+	height: 500px;
+	width: 1300px;
+}
+
+#where {
+	width: 200px;
+}
+
+#bangkokText {
+	position: absolute;
+	padding-left: 50%;
+	padding-bottom: 50%; 
+}
+
+#shanghaiText {
+	position: absolute;
+	padding-left: 50%;
+
+}
+
+#moroccoText {
+	position: absolute;
+	margin-left: 620px;
+
+}
+
+#berlinText {
+	position: absolute;
+	padding-left: 50%;
+	padding-top: 290px;
+
+}
+
+#swedenText {
+	position: absolute;
+	padding-left: 430px;
+	padding-top: 290px;
+
+}
+
+#johannesburgText {
+	position: absolute;
+	padding-left: 810px;
+	padding-top: 290px;
+}
+
+#shanghai {
+	height: 250px ;
+	position:relative;
+}
+
+#morocco {
+	height: 250px;
+	position: relative;
+}
+
+#berlin {
+	height: 300px;
+	position: relative;
+
+}
+
+#sweden {
+	height: 300px;
+	position: relative;
+
+}
+
+#johannesburg {
+	height: 300px;
+	position: relative;
+
+}
+
+
+
+.post-content {
+	top: 1200px;
+	left: 175px;
+	position: absolute;
+	color: white;
+	font-weight: bold;
+}
+
+#play {
+	position: absolute;
+	margin-left: 50%;
+	margin-top: 120px;
+	font-size: 50px;
+}
+
+input {
+	text-align: center;
+	margin-top: 20px;
+}
+@media screen and (min-width: 920px) {
+	.col-lg-6{
+		width: 50%;
+	}
+
+}
